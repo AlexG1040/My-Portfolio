@@ -46,3 +46,38 @@ main {
 section {
     text-align: center;
 }
+
+i {
+    font-size: larger;
+    color: gold;
+}
+
+.horiseon {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  .horiseon:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+  .dine-n-chug {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  .dine-n-chug:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  
+  
+footer {
+    text-align: center;
+    color: white;
+    margin: 5rem;
+    font-size: 20px;
+}
